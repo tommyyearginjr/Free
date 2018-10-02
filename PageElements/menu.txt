@@ -1,2 +1,2 @@
-<a href="~/index.html">Home</a>
-<a href="~/Archives/archive-1810.html">October 2018</a>
+<a href="index.html">Home</a>
+<a href="Archives/archive-1810.html">October 2018</a>
